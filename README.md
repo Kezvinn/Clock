@@ -1,10 +1,10 @@
 # Clock DS1302
 
-Feature of the product
- - LCD
-   - I2C commincation to display time and other coorespond message  
+Product hardwares:
+ - LCD 16x2
+   - I2C commincation to display time and other coorespond message
  - TTP223 - 3 units
-   - Touch sensor act as a button for setting time and switching mode in the system  
+   - Touch sensor act as a button for setting time and switching mode in the system
  - DS1302
    - Main module to keep time
    - Use UART to communicate to set and read time.
